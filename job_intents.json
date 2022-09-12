@@ -1,0 +1,35 @@
+{
+    "intents": [
+      {"tag": "Hello,how can I help you",
+       "patterns": ["Hi there", "Is anyone there?","Hey","Hola", "Hello", "Hey", "Hi"]
+      },
+      {"tag": "See you! Have a nice day",
+       "patterns": ["Bye", "See you later", "Goodbye", "Ok bye", "Bye Bye"]
+      },
+      {"tag": "thanks",
+       "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"]
+      },
+      {"tag": "Sorry,please enter any company or Nepse index",
+       "patterns": [""]
+       },
+       {"tag": "I am Navya Stock Bot",
+        "patterns": ["What is your name", "Who are you", "Tell me about yourself"]
+        },
+        {"tag": "I can tell you about Nepse and its stocks",
+         "patterns": ["What do you do", "How can you help", "What do you know", "What is your purpose", "How can you help"]
+        },
+        {
+            "tag":"NABIL",
+            "patterns":["Nabil Bank Limited","NABIL"]
+        },
+        {
+            "tag":"NICA",
+            "patterns":["NIC Asia Bank Limited","NICA"]
+        },
+        {
+            "tag":"ADBL",
+            "patterns":["Agriculture Development Bank Limited","ADBL"]
+        }
+    ]
+  }
+  
